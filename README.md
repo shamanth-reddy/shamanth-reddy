@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shamanth 👋
 
-<!--
-**shamanth-reddy/shamanth-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** focused on building practical LLM applications: retrieval-augmented generation, agents, and evaluation.
 
-Here are some ideas to get you started:
+## What I work on
+- Building LLM-powered apps (RAG pipelines, tool-using agents)
+- Evaluating and improving model and retrieval quality
+- Shipping ML services with clean APIs and reproducible setups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- **Languages:** Python, [add: SQL / JavaScript / etc.]
+- **ML / AI:** [add: PyTorch, Hugging Face, LangChain / LlamaIndex, etc.]
+- **Backend & tooling:** [add: FastAPI, Docker, Git, etc.]
+- **Data / infra:** [add: PostgreSQL, vector DBs, cloud platform, etc.]
+
+## Projects (in progress)
+Repositories are being added over the coming weeks:
+- 🔜 **[Project 1 name]**: one-line description
+- 🔜 **[Project 2 name]**: one-line description
+- 🔜 **[Project 3 name]**: one-line description
+
+## Get in touch
+- Email: [your email]
+- LinkedIn: [your LinkedIn URL]
