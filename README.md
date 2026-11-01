@@ -17,8 +17,12 @@
 - **Classical ML:** XGBoost, Prophet, scikit-learn, Hugging Face Transformers
 
 ## Projects
-- **[MiniMesh](https://github.com/shamanth-reddy/minimesh)**: a small stateful agent orchestrator built from scratch in Python (asyncio, Pydantic v2). It runs a Thought-Action-Observation loop with schema-validated tool calls, a deterministic state machine for error recovery, and context-window pruning. *(In progress)*
-- **[Edge-Vision Driver Fatigue Monitor](https://github.com/shamanth-reddy/edge-vision-fatigue)**: a real-time drowsiness detector using YOLOv8-pose, OpenCV and ONNX Runtime, optimized for edge hardware. *(Coming soon)*
+All projects use public or synthetic data only.
+
+- **[MiniMesh](https://github.com/shamanth-reddy/minimesh)**: a small stateful agent orchestrator built from scratch in Python (asyncio, Pydantic v2). It runs a Thought-Action-Observation loop with schema-validated tool calls, a state machine for error recovery, and context-window pruning. 
+- **[Bank Onboarding Agent](https://github.com/shamanth-reddy/bank-onboarding-agent)**: a corporate KYC/onboarding reference implementation. A LangGraph workflow calls a custom MCP server over a mock banking backend, retrieves public AML/CDD regulations with RAG, applies guardrails and human review, and writes a cited risk memo with a full audit trail. Synthetic data only. 
+- **[Clinical Policy RAG](https://github.com/shamanth-reddy/clinical-policy-rag)**: a prior-authorization assistant over public coverage policies and synthetic clinical notes, with PHI masking, hybrid chunking and search, policy-cited letters, and an evaluation harness (Recall@K, RAGAS, ROUGE/BLEU). 
+- **[Edge-Vision Driver Fatigue Monitor](https://github.com/shamanth-reddy/edge-vision-fatigue)**: a real-time drowsiness detector using YOLOv8-pose, OpenCV and ONNX Runtime, optimized for edge hardware.
 
 ## Get in touch
 - 📧 shamanthr09@gmail.com
